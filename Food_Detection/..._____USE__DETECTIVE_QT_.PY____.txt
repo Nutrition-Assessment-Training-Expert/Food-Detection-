@@ -1,0 +1,1 @@
+You Must Using detective_qt.py
